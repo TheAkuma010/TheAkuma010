@@ -1,4 +1,4 @@
-- Hey, I’m Akuma, i like using C++/C# and Python in my projects
+- Hey, I’m Akuma, a Brazilian Programmer, i like using C++/C# and Python in my projects
 - You can reach me in my discord, Akuma#0919
 
 <!---
