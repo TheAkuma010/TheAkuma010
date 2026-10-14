@@ -1,72 +1,99 @@
-- Hey, I’m Akuma, a Brazilian Programmer, i like using PHP, C++/C# and Python in my projects
-- You can reach me in my discord, theakuma_
-- That's all =)
+# Olá! Eu sou Gabriel Torres :wave:
 
-<br clear="both">
+### Desenvolvedor Backend | PHP • Laravel • APIs REST • SQL
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&reversal=false&text=Reach%20me%20on:&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=gruvbox_light"  />
-</div>
+Desenvolvedor de sistemas com experiência profissional em desenvolvimento e manutenção de aplicações web corporativas, integração entre sistemas e automação de processos.
 
-###
+Atuei na **AgeRio**, trabalhando com desenvolvimento full-stack, APIs REST, regras de negócio, bancos de dados relacionais e integração com serviços externos. Também tenho experiência anterior em suporte técnico N1/N2, com foco na investigação de problemas e resolução de incidentes.
 
-<br clear="both">
+Atualmente curso **Ciência da Computação na Universidade Veiga de Almeida (UVA)** e desenvolvo projetos que aplicam conhecimentos de engenharia de software, arquitetura de aplicações e integração de sistemas.
 
-<div align="center">
-  <a href="https://discord.com/users/329733358919876611" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="mailto:torresgabriel.gt10@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
+:dart: **Meu objetivo:** contribuir para o desenvolvimento de aplicações confiáveis, soluções de negócio e sistemas bem estruturados.
 
-###
+---
 
-<br clear="both">
+## :briefcase: Experiência e conhecimentos
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&reversal=false&text=Stacks:&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=gruvbox_light"  />
-</div>
+* Desenvolvimento e manutenção de aplicações web com **PHP e Laravel**.
+* Criação de APIs REST e endpoints para novas funcionalidades.
+* Integração entre sistemas internos, serviços externos e interfaces frontend.
+* Desenvolvimento frontend com **JavaScript e Vue.js**.
+* Consultas SQL, relacionamentos, views, procedures e análise de dados.
+* Automação de processos manuais utilizando ferramentas de desenvolvimento.
+* Versionamento com Git, revisão de código, homologação e publicação de aplicações.
+* Experiência anterior com suporte técnico N1/N2 e resolução de problemas de TI.
 
-###
+## :tools: Tecnologias
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="50" alt="bash logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" height="50" alt="bootstrap logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="csharp logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="50" alt="css logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="50" alt="html5 logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="50" alt="docker logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="50" alt="git logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-plain-wordmark.svg" height="50" alt="gitlab logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="50" alt="javascript logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original-wordmark.svg" height="50" alt="laravel logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="php logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="50" alt="mysql logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="50" alt="microsoftsqlserver logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="50" alt="react logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" height="50" alt="redis logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="50" alt="selenium logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="50" alt="python logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" height="50" alt="vuejs logo"  />
-</div>
+**Backend**
 
-###
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square\&logo=php\&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square\&logo=laravel\&logoColor=white)
+![CSharp](https://img.shields.io/badge/C%23-239120?style=flat-square\&logo=csharp\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+
+**Frontend**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square\&logo=vuedotjs\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
+
+**Banco de dados, ferramentas e infraestrutura**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square\&logo=microsoftsqlserver\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square\&logo=redis\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
+
+## :rocket: Projetos em destaque
+
+### [Impulso IA](https://github.com/TheAkuma010/impulso-ia)
+
+Assistente de marketing com inteligência artificial, desenvolvido para ajudar pequenas e médias empresas a planejar conteúdo para redes sociais.
+
+* Backend desenvolvido com Laravel.
+* Integração com serviços de inteligência artificial.
+* Persistência de dados com MySQL.
+* Aplicação de conhecimentos de desenvolvimento web em um produto orientado a necessidades de negócio.
+
+**Tecnologias:** PHP, Laravel, MySQL e APIs de IA.
+
+### [Sistema de Vendas — Teste Técnico FGV](https://github.com/TheAkuma010/Sistema-de-Vendas)
+
+Aplicação full-stack desenvolvida como projeto técnico, com foco em organização de código, separação de responsabilidades e regras de negócio.
+
+* Backend em C# com .NET 8 e Dapper.
+* Persistência de dados com SQL Server.
+* Arquitetura em camadas, separando domínio, aplicação, infraestrutura e API.
+* Frontend com Next.js e TypeScript.
+* Ambiente de desenvolvimento com Docker Compose.
+
+**Tecnologias:** C#, .NET 8, Dapper, SQL Server, Docker, Next.js e TypeScript.
+
+### [Confira todos os meus repositórios](https://github.com/TheAkuma010?tab=repositories)
+
+Explore outros projetos e experimentos envolvendo desenvolvimento de software, integração de sistemas e diferentes tecnologias.
+
+---
+
+## :mortar_board: Formação
+
+**Ciência da Computação** — Universidade Veiga de Almeida (UVA)
+
+Estudando fundamentos de computação, desenvolvimento de software e engenharia de sistemas.
+
+## :mailbox: Vamos conversar?
+
+Estou aberto a oportunidades em desenvolvimento backend, desenvolvimento PHP/Laravel e desenvolvimento de sistemas.
+
+* :briefcase: **LinkedIn:** [gabriel-t-costa](https://www.linkedin.com/in/gabriel-t-costa/)
+* :computer: **GitHub:** [TheAkuma010](https://github.com/TheAkuma010)
+* :envelope: **E-mail:** [torresgabriel.gt10@gmail.com](mailto:torresgabriel.gt10@gmail.com)
+
+---
+
+*Obrigado por visitar meu perfil!*
