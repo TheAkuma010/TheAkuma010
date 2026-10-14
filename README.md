@@ -8,11 +8,9 @@ Atuei na **AgeRio**, trabalhando com desenvolvimento full-stack, APIs REST, regr
 
 Atualmente curso **Ciência da Computação na Universidade Veiga de Almeida (UVA)** e desenvolvo projetos que aplicam conhecimentos de engenharia de software, arquitetura de aplicações e integração de sistemas.
 
-:dart: **Meu objetivo:** contribuir para o desenvolvimento de aplicações confiáveis, soluções de negócio e sistemas bem estruturados.
-
 ---
 
-## :briefcase: Experiência e conhecimentos
+## Experiência e conhecimentos
 
 * Desenvolvimento e manutenção de aplicações web com **PHP e Laravel**.
 * Criação de APIs REST e endpoints para novas funcionalidades.
@@ -23,7 +21,7 @@ Atualmente curso **Ciência da Computação na Universidade Veiga de Almeida (UV
 * Versionamento com Git, revisão de código, homologação e publicação de aplicações.
 * Experiência anterior com suporte técnico N1/N2 e resolução de problemas de TI.
 
-## :tools: Tecnologias
+## Tecnologias
 
 **Backend**
 
@@ -49,7 +47,7 @@ Atualmente curso **Ciência da Computação na Universidade Veiga de Almeida (UV
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
 
-## :rocket: Projetos em destaque
+## Projetos em destaque
 
 ### [Impulso IA](https://github.com/TheAkuma010/impulso-ia)
 
@@ -80,7 +78,7 @@ Explore outros projetos e experimentos envolvendo desenvolvimento de software, i
 
 ---
 
-## :mortar_board: Formação
+## Formação
 
 **Ciência da Computação** — Universidade Veiga de Almeida (UVA)
 
