@@ -60,7 +60,7 @@ Assistente de marketing com inteligência artificial, desenvolvido para ajudar p
 
 **Tecnologias:** PHP, Laravel, MySQL e APIs de IA.
 
-### [Sistema de Vendas — Teste Técnico FGV](https://github.com/TheAkuma010/Sistema-de-Vendas)
+### [Sistema de Vendas em ASP.NET 8](https://github.com/TheAkuma010/Sistema-de-Vendas)
 
 Aplicação full-stack desenvolvida como projeto técnico, com foco em organização de código, separação de responsabilidades e regras de negócio.
 
